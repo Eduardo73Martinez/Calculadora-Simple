@@ -8,4 +8,4 @@ Calculadora simple con las operaciones basicas; suma, resta, multiplicacion y di
 
 ## Descripción 
 - Una calculadora programada en python para utilizar con operaciones basicas como
-suma, resta, multiplicacion y division. 
+suma, resta, multiplicación y división. 
