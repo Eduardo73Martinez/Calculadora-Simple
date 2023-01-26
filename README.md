@@ -1,7 +1,7 @@
 # Calculadora-simple
 Calculadora simple con las operaciones basicas; suma, resta, multiplicacion y división.
 
-![](https://github.com/Eduardo73Martinez/Calculadora-simple/blob/master/CapturaCalculadora.PNG)
+![](https://github.com/Eduardo73Martinez/Calculadora-simple/blob/master/CapturaCalculadora.PNG )
 
 ## Requisitos 
 - libreria tkinter
